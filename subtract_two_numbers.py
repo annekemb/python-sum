@@ -1,4 +1,4 @@
-def sum_two_numbers(a,b);
+def substract_two_numbers(a,b):
     """
     Subtracts two numbers and returns the result.
 
